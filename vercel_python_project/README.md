@@ -2,7 +2,7 @@
 
 Este repositório contém uma função serverless escrita em **Python**, pronta para ser hospedada na **Vercel**.
 
-## 🚀 Como usar
+##  Como usar
 
 ### 1. Instalar CLI do Vercel
 ```
@@ -26,5 +26,5 @@ vercel.json
 README.md
 ```
 
-## ✔️ Status
+##  Status
 Tudo pronto para subir!
